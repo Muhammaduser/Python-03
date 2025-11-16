@@ -1,1 +1,1 @@
-print(assalom)
+print(assalom ррррр)
